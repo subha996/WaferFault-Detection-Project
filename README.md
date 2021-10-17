@@ -20,7 +20,7 @@ The inputs of various sensors for different wafers have been provided. In electr
 
 ##	Functional Architecture
 <h1 align="center"> 
-![image](https://user-images.githubusercontent.com/85347886/137638988-54257e67-06d4-4a06-9754-663fe1fc00dc.png)
+![image](LLD/image.png)
 
 <h1>
  
