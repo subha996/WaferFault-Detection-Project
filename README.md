@@ -1,6 +1,6 @@
 <h1 align="center">Wafer Fault Detection <h1>
  
-##### To build a classification methodology to predict the quality of wafer sensors based on the given training data.
+### To build a classification methodology to predict the quality of wafer sensors based on the given training data.
 
   
 <h2 align="center"> Architecture
@@ -9,3 +9,12 @@
 <h2>
  
  
+<h2 align="center"> Technology Used <h2>
+ 
+ ```
+ Python
+ pandas
+ numpy
+ sklearn
+ Flask
+```
