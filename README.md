@@ -20,7 +20,8 @@ The inputs of various sensors for different wafers have been provided. In electr
 
 ##	Functional Architecture
 <h1 align="center"> 
- ![image](https://user-images.githubusercontent.com/85347886/137638948-5749c881-f80a-4547-b3a9-acfc648836f3.png)
+![image](https://user-images.githubusercontent.com/85347886/137638988-54257e67-06d4-4a06-9754-663fe1fc00dc.png)
+
 <h1>
  
  
@@ -35,7 +36,7 @@ The inputs of various sensors for different wafers have been provided. In electr
  Flask
 ```
 <h1 align="center"> 
- ![image](https://user-images.githubusercontent.com/85347886/137638966-9a275ffc-5427-495d-a42e-0edebebd24d4.png)
+ ![image](https://user-images.githubusercontent.com/85347886/137638996-7e24620c-37c5-46c5-8e63-46e14480481b.png)
 <h1>
 
  
