@@ -36,7 +36,7 @@ The inputs of various sensors for different wafers have been provided. In electr
  Flask
 ```
 <h1 align="center"> 
- ![image](https://user-images.githubusercontent.com/85347886/137638996-7e24620c-37c5-46c5-8e63-46e14480481b.png)
+![alt-text](https://github.com/subha996/WaferFault-Detection-Project/blob/main/LLD/image.png)
 <h1>
 
  
