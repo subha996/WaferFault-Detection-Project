@@ -16,7 +16,9 @@
  pandas
  numpy
  sklearn
+ sql(for database)
  Flask
 ```
-  
+
+
  
