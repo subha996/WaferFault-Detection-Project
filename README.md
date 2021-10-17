@@ -19,10 +19,8 @@ The inputs of various sensors for different wafers have been provided. In electr
  
 
 ##	Functional Architecture
-<h1 align="center"> 
-![image](LLD/image.png)
+![image](https://user-images.githubusercontent.com/85347886/137639174-37f387fb-6597-473b-877c-9261ff9522b6.png)
 
-<h1>
  
  
  <h2 align="center">🛠 Technology Used <h2>
@@ -35,8 +33,7 @@ The inputs of various sensors for different wafers have been provided. In electr
  sql(for database)
  Flask
 ```
-<h1 align="center"> 
-![alt-text](https://github.com/subha996/WaferFault-Detection-Project/blob/main/LLD/image.png)
-<h1>
+
+![image](https://user-images.githubusercontent.com/85347886/137639175-fa684945-a0ba-47a8-8043-d318ad7d62cb.png)
 
  
