@@ -9,7 +9,7 @@
 <h2>
  
  
- <h2 align="center"> Technology Used <h2>
+ <h2 align="center">🛠 Technology Used <h2>
  
  ```bash
  Python
