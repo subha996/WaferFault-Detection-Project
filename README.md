@@ -23,7 +23,7 @@ The inputs of various sensors for different wafers have been provided. In electr
 
  
  
- <h2 align="center">🛠 Technology Used <h2>
+<h2 align="center">🛠 Technology Used <h2>
  
  ```
 Python
@@ -38,7 +38,7 @@ numpy
 sklearn
 ```
 ``` 
- sql(for database)
+sql(for database)
 ```
 ```
 Flask
