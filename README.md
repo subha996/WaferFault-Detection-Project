@@ -36,4 +36,7 @@ The inputs of various sensors for different wafers have been provided. In electr
 
 ![image](https://user-images.githubusercontent.com/85347886/137639175-fa684945-a0ba-47a8-8043-d318ad7d62cb.png)
 
+  
+## Contributor
+[Subhabrata Nath](https://www.linkedin.com/in/subhabrata-nath-181375115/) with [iNeuron Inc.](https://ineuron.ai/)
  
