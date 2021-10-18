@@ -25,21 +25,23 @@ The inputs of various sensors for different wafers have been provided. In electr
  
  <h2 align="center">🛠 Technology Used <h2>
  
- ```bash
- Python
-```
-```
-  pandas
  ```
-```  
+Python
+```
+```
+pandas
+```
+```
 numpy
 ```
 ```
 sklearn
 ```
-  
+``` 
  sql(for database)
- Flask
+```
+```
+Flask
 ```
 
 ![image](https://user-images.githubusercontent.com/85347886/137639175-fa684945-a0ba-47a8-8043-d318ad7d62cb.png)
