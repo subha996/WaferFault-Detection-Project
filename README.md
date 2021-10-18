@@ -26,7 +26,7 @@ The inputs of various sensors for different wafers have been provided. In electr
 <h2 align="center">🛠 Technology Used <h2>
  
  ```
-Python(core language)
+`Python`(core language)
 ```
 ```
 pandas(python library for data manipulation)
