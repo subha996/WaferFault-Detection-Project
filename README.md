@@ -27,9 +27,17 @@ The inputs of various sensors for different wafers have been provided. In electr
  
  ```bash
  Python
- pandas
- numpy
- sklearn
+```
+```
+  pandas
+ ```
+```  
+numpy
+```
+```
+sklearn
+```
+  
  sql(for database)
  Flask
 ```
