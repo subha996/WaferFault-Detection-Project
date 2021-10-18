@@ -26,22 +26,22 @@ The inputs of various sensors for different wafers have been provided. In electr
 <h2 align="center">🛠 Technology Used <h2>
  
  ```
-`Python`(core language)
+Python (core language)
 ```
 ```
-pandas(python library for data manipulation)
+pandas (for data manipulation)
 ```
 ```
-numpy(python library for numerical computation)
+numpy (for numerical computation)
 ```
 ```
-sklearn(ML library)
+sklearn (ML library)
 ```
 ``` 
-sql(for database)
+sql (for database)
 ```
 ```
-Flask(for API creation)
+Flask (for API creation)
 ```
 
 ![image](https://user-images.githubusercontent.com/85347886/137639175-fa684945-a0ba-47a8-8043-d318ad7d62cb.png)
