@@ -1,3 +1,5 @@
+![](https://forthebadge.com/images/badges/made-with-python.svg)
+
 <h1 align="center">Wafer Fault Detection <h1>
  
 ### To build a classification methodology to predict the quality of wafer sensors based on the given training data.
