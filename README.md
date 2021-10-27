@@ -52,6 +52,6 @@ Flask (for API creation)
 ![image](https://user-images.githubusercontent.com/85347886/137639175-fa684945-a0ba-47a8-8043-d318ad7d62cb.png)
 
   
-## Contributor
+## Contributor <img src="https://media3.giphy.com/media/1wrgDc6j07hAlM7Jml/giphy.gif?cid=790b7611e3af35beee6df1266c31edcabc53abfbbb82854c&rid=giphy.gif&ct=g" width="30">
 [Subhabrata Nath](https://www.linkedin.com/in/subhabrata-nath-181375115/) with [iNeuron Inc.](https://ineuron.ai/)
  
